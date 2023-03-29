@@ -1,0 +1,138 @@
+{
+  "1000": {
+    "_id": 1000,
+    "_creador": 1000,
+    "_nombre": "Poderosos",
+    "_participantes": [
+      1000,
+      1017,
+      1002
+    ],
+    "_estadistica": [
+      [
+        92,
+        116
+      ],
+      [
+        92,
+        116
+      ],
+      [
+        92,
+        116
+      ]
+    ],
+    "_clasificacion": [],
+    "_historicoFechas": [],
+    "_historicoRutas": []
+  },
+  "1001": {
+    "_id": 1001,
+    "_creador": 1001,
+    "_nombre": "Los terribles",
+    "_participantes": [
+      1001,
+      1003,
+      1004,
+      1018
+    ],
+    "_estadistica": [
+      [
+        112,
+        139
+      ],
+      [
+        112,
+        139
+      ],
+      [
+        112,
+        139
+      ]
+    ],
+    "_clasificacion": [],
+    "_historicoFechas": [],
+    "_historicoRutas": []
+  },
+  "1002": {
+    "_id": 1002,
+    "_creador": 1014,
+    "_nombre": "Magnificos",
+    "_participantes": [
+      1014,
+      1005,
+      1006
+    ],
+    "_estadistica": [
+      [
+        67,
+        36
+      ],
+      [
+        67,
+        36
+      ],
+      [
+        67,
+        36
+      ]
+    ],
+    "_clasificacion": [],
+    "_historicoFechas": [],
+    "_historicoRutas": []
+  },
+  "1003": {
+    "_id": 1003,
+    "_creador": 1011,
+    "_nombre": "Los malos",
+    "_participantes": [
+      1011,
+      1007
+    ],
+    "_estadistica": [
+      [
+        12,
+        19
+      ],
+      [
+        12,
+        19
+      ],
+      [
+        12,
+        19
+      ]
+    ],
+    "_clasificacion": [],
+    "_historicoFechas": [],
+    "_historicoRutas": []
+  },
+  "1004": {
+    "_id": 1004,
+    "_creador": 1016,
+    "_nombre": "Los buenos",
+    "_participantes": [
+      1016,
+      1008,
+      1009,
+      1010
+    ],
+    "_estadistica": [
+      [
+        87,
+        60
+      ],
+      [
+        87,
+        60
+      ],
+      [
+        87,
+        60
+      ]
+    ],
+    "_clasificacion": [],
+    "_historicoFechas": [],
+    "_historicoRutas": []
+  }
+}
